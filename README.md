@@ -1,7 +1,7 @@
 # UCL-PHAS0100
 UCL Module - Research Computing with C++
 
-First C++ projects
+Projects in Learning C++
 
 ## Assignment 1
 Conway's Game of Life - 70%
